@@ -1,0 +1,9 @@
+{
+  "rows": 240,
+  "target_mean": 2.4491666666666663,
+  "target_median": 2.49,
+  "target_min": 0.6,
+  "target_max": 4.32,
+  "acceptable_limit_pct": 3.0,
+  "share_above_limit": 0.2125
+}

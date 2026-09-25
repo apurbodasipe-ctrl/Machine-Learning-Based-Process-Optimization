@@ -1,0 +1,30 @@
+{
+  "best_model": "LinearRegression",
+  "best_model_metrics": {
+    "r2": 0.30751359853085014,
+    "rmse": 0.449284341786932,
+    "mae": 0.36118780967098313
+  },
+  "recommended_optimal_window": {
+    "speed_packs_per_min": {
+      "low": 107.26330589336293,
+      "high": 110.91766716915643
+    },
+    "seal_temp_c": {
+      "low": 65.80024964228461,
+      "high": 67.91900183479002
+    },
+    "humidity_pct": {
+      "low": 47.391056948818026,
+      "high": 61.329444046154485
+    },
+    "pressure_bar": {
+      "low": 4.018280440803978,
+      "high": 4.473598885711414
+    },
+    "downtime_min_per_hr": {
+      "low": 1.8800231626955246,
+      "high": 5.473117172268493
+    }
+  }
+}
