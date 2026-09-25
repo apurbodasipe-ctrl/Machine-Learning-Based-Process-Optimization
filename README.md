@@ -28,21 +28,27 @@ This project represents an Industry 4.0 approach by integrating industrial engin
 # 🔄 Project Workflow
 
 Process Data Collection
+          |
           ↓
 Data Cleaning & Preparation
+          |
           ↓
 Exploratory Data Analysis
+          |
           ↓
 Correlation Analysis
+          |
           ↓
 Machine Learning Model Development
+          |
           ↓
 Defect Rate Prediction
+          |
           ↓
 Optimization Simulation
+          |
           ↓
 Recommended Operating Conditions
----
 
 # 📊 Dataset Description
 
