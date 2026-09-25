@@ -38,6 +38,14 @@ This project represents an Industry 4.0 approach by integrating industrial engin
 
 # 🔄 Project Workflow
 
+## 🔄 Project Workflow
+
+<p align="center">
+
+<img src="https://github.com/yourusername/Machine-Learning-Based-Process-Optimization/blob/main/Results/workflow.png" width="800">
+
+</p>
+
 Process Data Collection
           |
           ↓
