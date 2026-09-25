@@ -1,3 +1,14 @@
+<div align="center">
+
+# Machine Learning-Based Process Optimization & Quality Improvement
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Industry 4.0](https://img.shields.io/badge/Industry-4.0-green)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+
+</div>
+
 # Machine Learning-Based Process Optimization & Quality Improvement
 
 <p align="center">
